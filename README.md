@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently: Working on national security at AWS, studying IT & CS at JMU.<br><br>💻 Learning: Java + backend dev, low-level systems, AWS certs.<br><br>🤝 Collab: Cybersecurity, cloud projects, embedded AI.<br><br>⚡ Fun fact: I'm the top scholar in my year!
+🚀 Currently: Working on national security at AWS, studying IT & CS at JMU.<br><br>💻 Learning: Java & AWS certs.<br><br>🤝 Collab: Cybersecurity, cloud projects, AI.<br><br>⚡ Fun fact: I'm the top scholar in my year!
 
 
 ## 🌐 Socials:
