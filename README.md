@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently: Studying IT + CS at JMU.<br><br>💻 Learning: Java & AWS certs.<br><br>🤝 Fun fact: I'm the top scholar in my year!
+🚀 Currently: Studying IT + CS at JMU.<br><br>💻 Learning: Python.<br><br>🤝 Fun fact: I have a permanently broken finger!
 
 
 ## 🌐 Socials:
