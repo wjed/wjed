@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently: Studying IT + CS at JMU.<br><br>💻 Learning: Python.<br><br>🤝 Fun fact: I have a permanently broken finger!
+🚀 Currently: Studying IT + CS at JMU.<br><br>💻 Learning: Python.<br><br>🤝 Fun fact: I actually have a permanently broken finger... #hardtocode
 
 
 ## 🌐 Socials:
