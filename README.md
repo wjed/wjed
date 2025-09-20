@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently: Studying IT + CS at JMU<br><br>💻 Learning: Python<br><br>🤝 Fun fact: I actually have a permanently broken finger... it's pretty hard to write code
+🚀 Currently: Studying IT + CS at JMU<br><br>💻 Learning: AWS Security Specialty<br><br>🤝 Fun fact: I actually have a permanently broken finger... it's pretty hard to write code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
