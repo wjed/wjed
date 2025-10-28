@@ -1,18 +1,16 @@
 # About Me:
-Currently: Currently working deployment-side @ Palantir, blending leadership with product and technical execution. Most days are a mix of edge-case debugging, decision trees, and real-world complexity.
+currently: working deployment-side @ palantir, blending leadership with product and technical execution. most days are a mix of edge-case debugging, decision trees, and real-world complexity.
 <br><br>
-Learning: Foundry internals and writing tighter queries.
+learning: foundry internals and writing tighter queries.
 <br><br> 
-Fun fact: One of my fingers is permanently broken. I still type ~130 WPM.
+fun fact: one of my fingers is permanently broken. i still type ~130 WPM.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
 
 # Tech Stack:
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # GitHub Stats:
