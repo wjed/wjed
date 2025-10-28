@@ -1,11 +1,15 @@
 # 💫 About Me:
-🚀 Currently: Deployment @ Palantir<br><br>💻 Learning: Foundry<br><br>🤝 Fun fact: I actually have a permanently broken finger... it's pretty hard to write code
+Currently: Currently working deployment-side @ Palantir, blending leadership with product and technical execution. Most days are a mix of edge-case debugging, decision trees, and real-world complexity.
+<br><br>
+Learning: Foundry internals and writing tighter queries.
+<br><br> 
+Fun fact: One of my fingers is permanently broken. I still type ~130 WPM.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wjed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=wjed&theme=dark&hide_border=false)<br/>
