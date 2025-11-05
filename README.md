@@ -5,7 +5,7 @@ learning: foundry internals and writing tighter queries.
 <br><br> 
 fun fact: one of my fingers is permanently broken. i still type ~130 WPM.
 
-## socials:
+# socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
 
 # tech stack:
@@ -16,10 +16,10 @@ fun fact: one of my fingers is permanently broken. i still type ~130 WPM.
 ![](https://nirzak-streak-stats.vercel.app/?user=wjed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wjed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## github trophies
+## github trophies:
 ![](https://github-profile-trophy.vercel.app/?username=wjed&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
 
-### top contributed repo
+### top contributed repo:
 ![](https://github-contributor-stats.vercel.app/api?username=wjed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
