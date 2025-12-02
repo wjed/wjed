@@ -1,5 +1,5 @@
 # about me:
-currently: working deployment-side @ palantir, blending leadership with product and technical execution. most days are a mix of edge-case debugging, decision trees, and real-world complexity.
+currently: blending leadership with product and technical execution. most days are a mix of edge-case debugging, decision trees, and real-world complexity.
 <br><br>
 learning: foundry internals and writing tighter queries.
 <br><br> 
