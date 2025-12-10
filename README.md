@@ -1,9 +1,9 @@
 # about me:
-currently: blending leadership with product and technical execution. most days are a mix of edge-case debugging, decision trees, and real-world complexity.
+currently: leadership with product and technical execution
 <br><br>
-learning: foundry internals and writing tighter queries.
+learning: foundry internals and writing tighter queries
 <br><br> 
-fun fact: one of my fingers is permanently broken. i still type ~130 WPM.
+fun fact: one of my fingers is permanently broken and i still type ~130 WPM
 
 # socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
