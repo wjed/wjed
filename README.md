@@ -3,7 +3,7 @@ background: got into cs when i was a kid because i liked watching videos about c
 <br><br>
 experience: worked at a couple contractors, startups, aws, and now palantir
 <br><br> 
-future goals: continue supporting our allies 🇺🇸
+future goals: continue supporting the west 🇺🇸
 
 # socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
