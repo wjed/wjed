@@ -1,5 +1,5 @@
 # about me:
-background: got into cs when i was a kid because i liked watching videos about computer viruses and malware and inspecting how they worked
+background: got into cs when i was a kid because i liked watching videos about computer viruses/malware and inspecting how they worked
 <br><br>
 experience: worked at a couple contractors, startups, aws, and now palantir
 <br><br> 
