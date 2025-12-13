@@ -1,9 +1,9 @@
 # about me:
-currently: leadership with product and technical execution
+currently: becoming dsa wizard
 <br><br>
-learning: foundry internals and writing tighter queries
+learning: how to print hello world
 <br><br> 
-fun fact: one of my fingers is permanently broken and i still type ~130 WPM
+fun fact: one of my fingers is permanently broken
 
 # socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
