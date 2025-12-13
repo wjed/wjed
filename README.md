@@ -1,9 +1,9 @@
 # about me:
-currently: becoming dsa wizard
+background: got into cs when i was a kid because i liked watching videos about computer viruses and malware and inspecting how they worked
 <br><br>
-learning: how to print hello world
+experience: worked at a couple contractors, startups, aws, and now palantir
 <br><br> 
-fun fact: one of my fingers is permanently broken
+future goals: continue supporting our allies 🇺🇸
 
 # socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/defend) 
